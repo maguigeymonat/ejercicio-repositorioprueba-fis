@@ -1,3 +1,0 @@
-Pepino
-Tomate
-Lechuga
