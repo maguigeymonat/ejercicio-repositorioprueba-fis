@@ -1,3 +1,2 @@
 Pepino
-Tomate
 Lechuga
